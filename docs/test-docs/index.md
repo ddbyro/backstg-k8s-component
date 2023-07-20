@@ -1,1 +1,1 @@
-# backstg-test-repo
+export * from './test-docs
