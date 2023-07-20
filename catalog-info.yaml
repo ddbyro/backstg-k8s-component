@@ -8,7 +8,7 @@ metadata:
     - title: Website
       url: https://backstage.dbyron.net
     - title: Documentation
-      url: https://backstage.dbyron.net/docs/docs
+      url: https://backstage.dbyron.net/docs
     - title: Kubernetes
       url: https://backstage.dbyron.net/kubernetes
   annotations:
