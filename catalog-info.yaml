@@ -8,15 +8,12 @@ metadata:
     - title: Website
       url: https://backstage.dbyron.net
     - title: Documentation
-      url: https://backstage.dbyron.net/docs
-    - title: Storybook
-      url: https://backstage.dbyron.net/storybook
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
+      url: https://backstage.dbyron.net/docs/docs
+    - title: Kubernetes
+      url: https://backstage.dbyron.net/kubernetes
   annotations:
-    github.com/project-slug: ddbyro/backstg-k8s-component 
+    github.com/project-slug: ddbyro/my-backstage
     backstage.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://backstage.dbyron.net
 spec:
   type: library
   owner: Me
