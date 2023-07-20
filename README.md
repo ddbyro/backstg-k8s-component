@@ -1,7 +1,7 @@
 ---
-id: FAQ
-title: FAQ
-description: All FAQ related to Backstage
+id: index
+title: test
+description: test for Backstage
 ---
 
 # backstg-test-repo
